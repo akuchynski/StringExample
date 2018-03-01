@@ -4,7 +4,7 @@ public class Task2 {
 
 	public static void main(String[] args) {
 
-		String st = "What a beautiful day!";
+		String st = "what a beautiful day!";
 		String abcSt = "abcdefghijklmnopqrstuvwxyz";
 		int numChar;
 		int[] arrNum;
